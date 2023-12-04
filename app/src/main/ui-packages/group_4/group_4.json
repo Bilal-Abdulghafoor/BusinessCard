@@ -1,0 +1,474 @@
+{
+  "name": "group_4",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "fliZnlO8btiVlwF43c6Nj5",
+    "node": "2:49",
+    "version": "4742025195",
+    "component-id": "9d104cd540a473c0197791156af37469b47b417b"
+  },
+  "default": "Group 4",
+  "documentation": "Android Business Card",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Android Large - 1"
+      },
+      {
+        "type": "image",
+        "id": "Photo"
+      },
+      {
+        "type": "text",
+        "id": "Bilal Abdulghafoor"
+      },
+      {
+        "type": "text",
+        "id": "Professor of Wumbology University of Patrick Star BEd, BS , PhD in Philosophy"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "text",
+        "id": "(724) 643-2633"
+      },
+      {
+        "type": "text",
+        "id": "GitHub: Bilal-Abdulghafoor"
+      },
+      {
+        "type": "text",
+        "id": "bilal.ghafoor@att.net"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 1"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 2"
+      },
+      {
+        "type": "text",
+        "id": "“You know, I wumbo, You wumbo, He she me wumbo, wumbo, Wumboing, We'll have thee wumbo, Wumborama, Wumbology, The study of wumbo?”"
+      }
+    ],
+    "modes": {
+      "Group 4": {
+        "rules": [
+          {
+            "id": "top_level",
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Android Large - 1"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Android Large - 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "800.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Photo",
+              "Bilal Abdulghafoor",
+              "Professor of Wumbology University of Patrick Star BEd, BS , PhD in Philosophy",
+              "Vector",
+              "Vector1",
+              "Vector2",
+              "(724) 643-2633",
+              "GitHub: Bilal-Abdulghafoor",
+              "bilal.ghafoor@att.net",
+              "Ellipse 1",
+              "Ellipse 2",
+              "“You know, I wumbo, You wumbo, He she me wumbo, wumbo, Wumboing, We'll have thee wumbo, Wumborama, Wumbology, The study of wumbo?”"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.912621359223301",
+              "value": "0.403921568627451"
+            }
+          },
+          {
+            "id": "Photo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "73.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "199.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "214.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "image-content": "photo.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Bilal Abdulghafoor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "73.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "377.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "214.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8509803921568627"
+            },
+            "text-content": "Bilal Abdulghafoor",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "0.9583333587646484",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Professor of Wumbology University of Patrick Star BEd, BS , PhD in Philosophy",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "104.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "400.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.015686274509803977",
+              "value": "1.0"
+            },
+            "text-content": "Professor of Wumbology\nUniversity of Patrick Star\nBEd, BS , PhD in Philosophy  ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.7692308044433593",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Vector",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "52.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "668.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "52.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "715.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "48.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "758.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "(724) 643-2633",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "104.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "667.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "93.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.996078431372549"
+            },
+            "text-content": "(724) 643-2633",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "2.3",
+            "typeface": "Inter"
+          },
+          {
+            "id": "GitHub: Bilal-Abdulghafoor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "104.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "715.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.015686274509803977",
+              "value": "1.0"
+            },
+            "text-content": "GitHub: Bilal-Abdulghafoor",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "2.3",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bilal.ghafoor@att.net",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "104.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "763.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.015686274509803977",
+              "value": "1.0"
+            },
+            "text-content": "bilal.ghafoor@att.net",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "2.3",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ellipse 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "135.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "260.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              }
+            },
+            "vector-content": "ellipse_1.svg"
+          },
+          {
+            "id": "Ellipse 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "211.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "260.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              }
+            },
+            "vector-content": "ellipse_2.svg"
+          },
+          {
+            "id": "“You know, I wumbo, You wumbo, He she me wumbo, wumbo, Wumboing, We'll have thee wumbo, Wumborama, Wumbology, The study of wumbo?”",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "504.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "336.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "“You know, I wumbo, You wumbo, He she me wumbo, wumbo, Wumboing, We'll have thee wumbo, Wumborama, Wumbology, The study of wumbo?”",
+            "italic": "true",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "8.0",
+            "line-height": "2.875",
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Group 4",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
