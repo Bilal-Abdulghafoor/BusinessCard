@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "fliZnlO8btiVlwF43c6Nj5",
     "node": "2:49",
-    "version": "4742025195",
+    "version": "4742403083",
     "component-id": "9d104cd540a473c0197791156af37469b47b417b"
   },
   "default": "Group 4",
@@ -47,7 +47,7 @@
       },
       {
         "type": "text",
-        "id": "(724) 643-2633"
+        "id": "(235) 453-342"
       },
       {
         "type": "text",
@@ -55,7 +55,7 @@
       },
       {
         "type": "text",
-        "id": "bilal.ghafoor@att.net"
+        "id": "bilal-abdul@attt.com"
       },
       {
         "type": "vector",
@@ -104,9 +104,9 @@
               "Vector",
               "Vector1",
               "Vector2",
-              "(724) 643-2633",
+              "(235) 453-342",
               "GitHub: Bilal-Abdulghafoor",
-              "bilal.ghafoor@att.net",
+              "bilal-abdul@attt.com",
               "Ellipse 1",
               "Ellipse 2",
               "“You know, I wumbo, You wumbo, He she me wumbo, wumbo, Wumboing, We'll have thee wumbo, Wumborama, Wumbology, The study of wumbo?”"
@@ -284,7 +284,7 @@
             "vector-content": "vector2.svg"
           },
           {
-            "id": "(724) 643-2633",
+            "id": "(235) 453-342",
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -311,7 +311,7 @@
               "saturation": "0.0",
               "value": "0.996078431372549"
             },
-            "text-content": "(724) 643-2633",
+            "text-content": "(235) 453-342",
             "overflow": "visible",
             "max-lines": "-1",
             "text-align": "left",
@@ -345,7 +345,7 @@
             "typeface": "Inter"
           },
           {
-            "id": "bilal.ghafoor@att.net",
+            "id": "bilal-abdul@attt.com",
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -362,7 +362,7 @@
               "saturation": "0.015686274509803977",
               "value": "1.0"
             },
-            "text-content": "bilal.ghafoor@att.net",
+            "text-content": "bilal-abdul@attt.com",
             "overflow": "visible",
             "text-align": "left",
             "text-size": "10.0",
